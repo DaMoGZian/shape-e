@@ -63,8 +63,16 @@ Here are some highlighted samples from our text-conditional model. For random sa
 <table>
 
 # Usage
+Clone the repository
+```bash
+git clone https://github.com/openai/shap-e.git
+cd shap-e
+```
 
-Install with `pip install -e .`.
+Install with pip
+```bash
+pip install -e .
+```
 
 To get started with examples, see the following notebooks:
 
